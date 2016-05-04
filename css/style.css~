@@ -12,3 +12,10 @@ background-color: #3498db;
 {
 background-color: #9b59b6;
 }
+
+.img
+{
+width:70px;
+height:70px;
+padding-left:1000px;
+}

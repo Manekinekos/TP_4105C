@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>M4105C : Un "super" module</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<h2>M4105C: TP1</h2>
+	</header>
+	<section>
+		<label for="civ">Civilit&eacute;:</label>
+		<select id="civ">
+			<option>M</option>
+			<option>Mme</option>
+			<option>Autre?</option>
+		</select>
+	</section>
+	<section>
+		<label for="name">Nom:</label>
+		<input id="name" type="text">
+	</section>
+	<section>
+		<input id="name" type="submit" value="Envoyer">
+	</section>
+	<footer>
+		<p>“Bière qui coule n'amasse point de mousse.” -Victor Hugo</p>
+	</footer>
+</body>
+</html>
+

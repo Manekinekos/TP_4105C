@@ -1,0 +1,14 @@
+.bg_grey
+{
+background-color: #ecf0f1;
+}
+
+.bg_blue
+{
+background-color: #3498db;
+}
+
+.bg_purple
+{
+background-color: #ecf0f1;
+}

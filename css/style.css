@@ -47,11 +47,11 @@ table {
 
 @media screen and (max-width: 640px) {
 
-table {
+tr {
 display:table-row;
 }
 
-tr {
+table {
 display: block;
 }
 

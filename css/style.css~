@@ -33,15 +33,26 @@ h2
 	font-size: 8vw;
 }
 
+td {
+	border: 1px solid silver;
+}
+
 th {
 	background-color: silver;
 }
 
-@media screen and (max-width: 640px) {
-  table {
-    display:table-row;
-  }
-  tr {
-    display: block;
+table {
+	display: block;
 }
+
+@media screen and (max-width: 640px) {
+
+table {
+display:table-row;
+}
+
+tr {
+display: block;
+}
+
 }

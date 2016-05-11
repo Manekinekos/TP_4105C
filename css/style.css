@@ -41,11 +41,18 @@ th {
 	background-color: silver;
 }
 
-@media screen and (max-width: 640px) {
-  table {
-    display:table-row;
-  }
-  tr {
-    display: block;
+table {
+	display: block;
 }
+
+@media screen and (max-width: 640px) {
+
+table {
+display:table-row;
+}
+
+tr {
+display: block;
+}
+
 }

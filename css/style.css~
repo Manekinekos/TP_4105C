@@ -13,13 +13,3 @@ background-color: #3498db;
 background-color: #9b59b6;
 }
 
-.img
-{
-width:70px;
-height:70px;
-}
-
-.end{
-background-image: url(images/logo-iut.jpg);
-background: no-repeat;
-}

@@ -56,7 +56,7 @@ display: block;
 }
 
 td {
-	border: none;
+border: none;
 }
 
 }

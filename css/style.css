@@ -48,15 +48,15 @@ table {
 @media screen and (max-width: 640px) {
 
 tr {
-display:table-row;
+display:table;
 }
 
 table {
 display: block;
 }
 
-td {
-border: none;
+td,th {
+display: table-row
 }
 
 }

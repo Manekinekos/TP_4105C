@@ -5,7 +5,6 @@
 <title>M4105C : Un "super" module</title>
 <link rel="stylesheet" href="css/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-<<<<<<< HEAD
 <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png">
@@ -25,8 +24,6 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-TileImage" content="images/favicon/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
-=======
->>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 </head>
 <body>
 	<center>

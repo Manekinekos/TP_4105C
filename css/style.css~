@@ -54,6 +54,7 @@ display:table;
 td,th {
 display: table-row
 width:100%;
+text-align: center;
 }
 
 }

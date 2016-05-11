@@ -26,7 +26,6 @@ background-color: #9b59b6;
 .img_end
 {
 	width: 30rem;
-	height: auto;
 }
 
 h2 

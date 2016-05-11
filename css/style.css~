@@ -19,8 +19,8 @@ background-color: #9b59b6;
 
 .img
 {
-	width: 0.7rem;
-	height: 0.7rem;
+	width: 7rem;
+	height: 7rem;
 }
 
 .img_end

@@ -55,4 +55,8 @@ table {
 display: block;
 }
 
+td {
+border: none;
+}
+
 }

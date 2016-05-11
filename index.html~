@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="css/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png">
@@ -25,6 +26,8 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-TileImage" content="images/favicon/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
+=======
+>>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 =======
 >>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 </head>
@@ -58,6 +61,9 @@
 	<section>
 		<input id="name" type="submit" value="Envoyer">
 	</section>
+<<<<<<< HEAD
+>>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
+=======
 >>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 	<section> </br>
 		<article class="bg_grey">
@@ -75,6 +81,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut lectus ut pur
 =======
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut lectus ut purus dictum posuere. Praesent eu aliquam est, vitae aliquet augue. Curabitur ut nisl non nibh aliquet sagittis vitae at dolor. Aliquam malesuada, nibh ut fermentum placerat, purus sem hendrerit felis, id tristique lorem nunc vitae orci. Integer non lorem et nunc maximus euismod. Etiam dictum lacus non enim consequat tristique. Sed vel ligula at justo gravida tempor sit amet ac turpis. Maecenas aliquet erat ornare libero hendrerit vehicula. Integer at lectus diam. Cras tristique lacus nulla, non accumsan est auctor quis. Pellentesque nec lorem mollis, tristique mauris eu, mollis nunc. Cras ligula arcu, suscipit at vulputate id, convallis a turpis.
 		<img class="img" src="images/calais.jpg">
+<<<<<<< HEAD
+>>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
+=======
 >>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 		</article>
 	</section>

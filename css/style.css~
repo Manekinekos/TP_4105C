@@ -13,6 +13,7 @@ background-color: #3498db;
 background-color: #9b59b6;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .img
 {
@@ -20,5 +21,7 @@ width:70px;
 height:70px;
 padding-left:1000px;
 }
+=======
+>>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3
 =======
 >>>>>>> 0894f170c20b066bcf0151c4d94764c7797450d3

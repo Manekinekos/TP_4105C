@@ -33,6 +33,10 @@ h2
 	font-size: 8vw;
 }
 
+th {
+	background-color: silver;
+}
+
 @media screen and (max-width: 640px) {
   table {
     display:table-row;

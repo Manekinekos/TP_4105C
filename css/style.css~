@@ -51,12 +51,9 @@ tr {
 display:table;
 }
 
-table {
-display: block;
-}
-
 td,th {
 display: table-row
+width:100%;
 }
 
 }
